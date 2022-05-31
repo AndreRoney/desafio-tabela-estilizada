@@ -1,0 +1,17 @@
+.tabela {
+    border: solid 3px;   
+}
+.cabecalho {
+    background-color: #BB86FC;
+}
+.dadostabela {
+    background-color: #595950;
+    color: aliceblue;
+}
+.total {
+    background-color: red;
+}
+
+.cabecalho2 {
+    background-color: #00C4B4;
+}
